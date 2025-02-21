@@ -1,0 +1,6 @@
+streamlit
+Pillow
+streamlit-folium
+geocoder
+folium
+streamlit-webrtc
